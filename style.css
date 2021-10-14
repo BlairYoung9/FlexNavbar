@@ -1,0 +1,24 @@
+.nav{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.leftContainer{
+   display: flex;
+   justify-content: left;
+   align-items: center; 
+}
+
+.rightContainer{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.btn{
+    background-color: rgb(33, 107, 136);
+    border-color: black;
+    color: whitesmoke;
+    width: 150px;
+    height: 35px;
+}
